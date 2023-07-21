@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+Mauli Unisex Salon & Spa Sangli is a premier beauty and wellness destination that offers a wide range of services to cater to the diverse needs of its clients. As a dedicated freelance team, we took up the challenge of designing and developing their online presence using the cutting-edge technology of React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Our goal was to create an engaging and user-friendly website that reflects the essence of Mauli Unisex Salon & Spa. Leveraging the power of React, we crafted a dynamic and responsive platform that seamlessly adapts to various devices, providing a smooth and enjoyable browsing experience for users on desktops, tablets, and smartphones.
 
-## Available Scripts
+Key Features:
 
-In the project directory, you can run:
+1. Intuitive User Interface: We designed an intuitive and aesthetically pleasing user interface to ensure effortless navigation and an overall pleasant user experience. From the moment visitors land on the website, they are greeted with a visually appealing layout that entices them to explore further.
 
-### `npm start`
+2. Service Showcase: Understanding the importance of showcasing the range of services offered by Mauli Unisex Salon & Spa, we created dedicated pages to highlight each service with detailed descriptions, pricing, and captivating imagery.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. Image Gallery: We incorporated an image gallery that showcases the salon's work, including before-and-after transformations, events, and happy customers. This feature adds credibility and provides potential clients with a glimpse of the salon's expertise.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+4. Contact and Location Information: To facilitate communication and attract local clients, we prominently displayed the salon's contact details and location information on the website. 
 
-### `npm test`
+5. Products Information : We have displayed all the products available at their Salon so that users can get information and price details in advance.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Technologies used to build this website :
+1. React
+2. Node JS
+3. MongoDB Atlas
+4. Express
